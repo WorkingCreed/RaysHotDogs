@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="RaysHotDogs.Droid.RaysHotDogs.Droid" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <uses-permission android:name="com.company.rayshotdogs.permission.MAPS_RECEIVE" />
+  <permission android:name="com.companyname.rayshotdogs.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/appicon" android:debuggable="true" android:name="android.app.Application">
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBFFPneL4-gYgFdXlK0hQcoUiqbKZcmPzA" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:icon="@drawable/smallicon" android:label="Visit Ray's store" android:name="md5ab2a2c435ad8b92d5ca094092b3a7462.RayMapActivity" />
+    <activity android:label="About Ray's Hot Dogs" android:name="md58da87008ecf8b56a138a2bc436f41ea1.AboutActivity" />
+    <activity android:label="Hot dog detail" android:name="md58da87008ecf8b56a138a2bc436f41ea1.HotDogDetailActivity" />
+    <activity android:label="Hot Dog Menu" android:name="md58da87008ecf8b56a138a2bc436f41ea1.HotDogMenuActivity" />
+    <activity android:label="RaysHotDogs" android:name="md58da87008ecf8b56a138a2bc436f41ea1.MainActivity" />
+    <activity android:icon="@drawable/smallicon" android:label="Ray's Hot Dogs" android:name="md58da87008ecf8b56a138a2bc436f41ea1.MainMenuActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/smallicon" android:label="Take a picture with Ray" android:name="md58da87008ecf8b56a138a2bc436f41ea1.TakePictureActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="RaysHotDogs.Droid.RaysHotDogs.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.RaysHotDogs.Droid.RaysHotDogs.Droid" />
+      </intent-filter>
+    </receiver>
+    <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+  </application>
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+</manifest>
