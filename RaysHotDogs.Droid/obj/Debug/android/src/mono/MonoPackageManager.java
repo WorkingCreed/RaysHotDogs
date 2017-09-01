@@ -110,7 +110,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Tasks.dll",
 		"Xamarin.GooglePlayServices.Base.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
-		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

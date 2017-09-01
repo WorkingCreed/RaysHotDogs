@@ -53,8 +53,6 @@ C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Dro
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.dll.mdb
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Core.dll.mdb
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Droid.dll.mdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Newtonsoft.Json.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-hdpi\smallicon.png
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-ldpi\smallicon.png
 C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-mdpi\smallicon.png
