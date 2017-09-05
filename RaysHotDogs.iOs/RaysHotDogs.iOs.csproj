@@ -89,6 +89,21 @@
     <None Include="GettingStarted.Xamarin" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HotDogDetailViewController.cs" />
+    <Compile Include="HotDogDetailViewController.designer.cs">
+      <DependentUpon>HotDogDetailViewController.cs</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <Compile Include="Sources\HotDogDataSource.cs" />
+    <Compile Include="HotDogTableViewController.cs" />
+    <Compile Include="HotDogTableViewController.designer.cs">
+      <DependentUpon>HotDogTableViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cells\HotDogListCell.cs" />
+    <Compile Include="MainMenuController.cs" />
+    <Compile Include="MainMenuController.designer.cs">
+      <DependentUpon>MainMenuController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ViewController.designer.cs">
@@ -113,5 +128,17 @@
       <Name>RaysHotDogs.Core</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="Sources\" />
+    <Folder Include="Cells\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Images\hotdog1.png" />
+    <BundleResource Include="Images\hotdog4.jpg" />
+    <BundleResource Include="Images\hotdog3.jpg" />
+    <BundleResource Include="Images\hotdog2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
 </Project>

@@ -1,34 +1,34 @@
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Droid.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Java.Interop.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Mono.Android.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Core.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Xml.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\mscorlib.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Core.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Base.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Maps.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Runtime.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Threading.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Collections.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Reflection.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Linq.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Net.Http.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\Mono.Security.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/RaysHotDogs.Droid.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Java.Interop.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Mono.Android.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Core.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Xml.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/mscorlib.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/RaysHotDogs.Core.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Core.UI.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Core.Utils.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Media.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Fragment.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Basement.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Tasks.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Base.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Maps.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Runtime.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Threading.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Collections.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Collections.Concurrent.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Reflection.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Linq.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Runtime.InteropServices.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Reflection.Extensions.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Net.Http.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/Mono.Security.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll

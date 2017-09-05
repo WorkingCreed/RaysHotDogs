@@ -2,15 +2,15 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Basement\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Base\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Maps\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Basement/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Base/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Maps/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Basement.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Base.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Maps.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Basement.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Base.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/__library_projects__/Xamarin.GooglePlayServices.Maps.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

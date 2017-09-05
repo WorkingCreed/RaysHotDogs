@@ -1,13 +1,27 @@
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csprojResolveAssemblyReference.cache
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.config
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csproj.App.config
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.pdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.pdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.csprojResolveAssemblyReference.cache
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll.config
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/Newtonsoft.Json.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Extensions.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Primitives.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/Newtonsoft.Json.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Extensions.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Primitives.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.csproj.App.config
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll.config
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.pdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.csproj.App.config
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.csproj.CoreCompileInputs.cache
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.pdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.csprojResolveAssemblyReference.cache

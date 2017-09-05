@@ -1,61 +1,121 @@
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.dll.config
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.pdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.RaysHotDogs.Droid.apk
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.RaysHotDogs.Droid-Signed.apk
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Core.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Core.pdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\RaysHotDogs.Droid.csprojResolveAssemblyReference.cache
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\RaysHotDogs.Droid.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\RaysHotDogs.Droid.pdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\bin\RaysHotDogs.Droid.RaysHotDogs.Droid.apk
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\hotdogdetailview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\hotdogmenuview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\hotdogrowview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\mainmenu.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\aboutview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\favoritehotdogfragment.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\meatloversfragment.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\veggieloversfragment.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\takepictureview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\main.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\values\strings.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\raylogo.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\favoritesicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\meatloversicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\veggieloversicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\appicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\R.cs.flag
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\uploadflags.txt
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\layout\raymapview.xml
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\bin\Debug\RaysHotDogs.Droid.dll.mdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Core.dll.mdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\android\assets\RaysHotDogs.Droid.dll.mdb
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-hdpi\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-ldpi\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-mdpi\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-xhdpi\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-xxhdpi\smallicon.png
-C:\Users\creed\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs.Droid\obj\Debug\res\drawable-xxxhdpi\smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.dll.config
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.pdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.RaysHotDogs.Droid.apk
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.RaysHotDogs.Droid-Signed.apk
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.pdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.csprojResolveAssemblyReference.cache
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.pdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/android/bin/RaysHotDogs.Droid.RaysHotDogs.Droid.apk
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogdetailview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogmenuview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogrowview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/mainmenu.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/aboutview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/favoritehotdogfragment.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/meatloversfragment.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/veggieloversfragment.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/takepictureview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/main.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/values/strings.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/raylogo.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/favoritesicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/meatloversicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/veggieloversicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/appicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/R.cs.flag
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/uploadflags.txt
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v4.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/layout/raymapview.xml
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.dll.mdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.dll.mdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/android/assets/RaysHotDogs.Core.dll.mdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/android/assets/RaysHotDogs.Droid.dll.mdb
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-hdpi/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-ldpi/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-mdpi/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xhdpi/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xxhdpi/smallicon.png
+C:/Users/creed/Documents/Visual Studio 2015/Projects/RaysHotDogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xxxhdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.dll.config
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.pdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.RaysHotDogs.Droid.apk
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Droid.RaysHotDogs.Droid-Signed.apk
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.pdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.dll.mdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/bin/Debug/RaysHotDogs.Core.dll.config
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.csprojResolveAssemblyReference.cache
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v4.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.csproj.CoreCompileInputs.cache
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.dll
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/RaysHotDogs.Droid.pdb
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/android/bin/RaysHotDogs.Droid.RaysHotDogs.Droid.apk
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogdetailview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogmenuview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/hotdogrowview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/mainmenu.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/aboutview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/favoritehotdogfragment.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/meatloversfragment.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/veggieloversfragment.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/takepictureview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/raymapview.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/layout/main.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/values/strings.xml
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/raylogo.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/favoritesicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/meatloversicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/veggieloversicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/appicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-hdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-ldpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-mdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xhdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xxhdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/res/drawable-xxxhdpi/smallicon.png
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/R.cs.flag
+/Users/scout/Projects/workingcreed/rayshotdogs/RaysHotDogs.Droid/obj/Debug/uploadflags.txt
